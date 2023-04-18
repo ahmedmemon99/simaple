@@ -9,13 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef6c5a62-6489-40db-af66-8b834f0ae4a7" name="Changes" comment="rr">
-      <change afterPath="$PROJECT_DIR$/.idea/fibe_ui.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibe_ui.iml" afterDir="false" />
-    </list>
+    <list default="true" id="ef6c5a62-6489-40db-af66-8b834f0ae4a7" name="Changes" comment="rr" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
